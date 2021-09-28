@@ -5,3 +5,4 @@
 => https://mastodon.green/@bart Here's my Mastodon page
 => https://www.mieterseboel.nl My personal webpage.
 => gemini://koyu.space/bartf1969/ My gemini capsule in koyu.space!
+=> //koyu.space/bartf1969/gemlog/links.gmi
