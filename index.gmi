@@ -1,8 +1,25 @@
-## Hello!
+# Welcome to my gemini place @ Koyu.Space!
 
-## This is my first Gemini page! I think :-)
+## About bartf1969
+I'm a dutch guy, married, gardening, bread baking yogi.
+I often (as in, sometimes daily) sit down to meditate for maybe 15 minutes
+...and also I'm a big nerd. Love emacs, I work in ICT for >25 years. DBA, Sysadmin, Windows/Unix, now Information Architect.
 
-=> https://mastodon.green/@bart Here's my Mastodon page
-=> https://www.mieterseboel.nl My personal webpage.
-=> gemini://koyu.space/bartf1969/ My gemini capsule in koyu.space!
-=> //koyu.space/bartf1969/gemlog/links.gmi
+Here's how you can find me:
+=>https://mastodon.green/@bart @bart@mastodon.green 
+=>https://koyu.space/@bartf1969 @bartf1969@koyu.space
+=>https://pixelfed.social/bfennema Pixelfed
+=>https://www.mieterseboel.nl www.mieterseboel.nl
+Mail me: bartf1969 at protonmail.com
+
+##  Stuff I'm interested in (will expand on this in the near future)
+=> //koyu.space/bartf1969/gemlog/ashtangayoga.gmi Ashtanga Yoga 
+Zenbuddhism and meditation
+=> //koyu.space/bartf1969/img/bakingbread.png Baking Sourdough bread
+Islamic geometry
+Allotment gardening
+
+
+=> gemini://bartf1969/flounder.online/ My gemini capsule on flounder.online!
+=> //koyu.space/bartf1969/gemlog/links.gmi Links I found interesting.
+
