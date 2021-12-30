@@ -1,0 +1,5 @@
+20211230: The first day of my holiday. Excellent. I'm definitely crashing right now.
+Time to go to bed early i guess.
+First, trying out Obsidian, a Zettelkasten implementation.
+Maybe not wise, since it took a long time for me to get my head around org-roam in emacs.
+Well, I have about 3 weeks at my disposal and I'm free to do what I want right?
